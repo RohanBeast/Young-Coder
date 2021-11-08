@@ -4,7 +4,7 @@
 }
 
 body{
-    background: url("../static/fabio-oyXis2kALVg-unsplash.jpg");
+    background: url("../images/fabio-oyXis2kALVg-unsplash.jpg");
     background-size: cover;
 }
 
@@ -18,7 +18,7 @@ body{
 #start{
     width: 48px;
     height: 40px;
-    background: url("../static/winIcon.png")center center/cover;
+    background: url("../images/winIcon.png")center center/cover;
     border: 0px;
 }
 
