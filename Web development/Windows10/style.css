@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background: url("../static/fabio-oyXis2kALVg-unsplash.jpg");
+    background-size: cover;
+}
+
+.taskbar{
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    bottom: 0%;
+}
+
+#start{
+    width: 48px;
+    height: 40px;
+    background: url("../static/winIcon.png")center center/cover;
+    border: 0px;
+}
+
+#search:hover{
+    cursor:text;
+}
+
+#ref{
+    display: none;
+}
+
+#startmenu{
+    display: none;
+    position: absolute;
+    bottom: 0%;
+}
+
+.iconss{
+    width: 150px;
+    height: 150px;
+}
